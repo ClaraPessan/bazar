@@ -1,0 +1,52 @@
+.produto {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0 3px 8px #25252544;
+    padding: 10px;
+
+    img {
+        width: 50px;
+        height: 50px;
+    }
+
+    &__principal {
+        display: flex;
+        gap: 10px;
+        align-items: center;
+    }  
+}
+
+.itens {
+    display: flex;
+    gap: 10px;
+
+    &__btnFavoritar {
+            button {
+                border: none;
+                background-color: transparent;
+        
+            }        
+    }
+
+    &__qtdItens {
+        button {
+            border: none;
+            width: 25px;
+            height: 25px;
+            font-size: 20px;
+            color: white;
+            cursor: pointer;
+            border-radius: 8px;
+            margin: 0 10px;
+        }
+        .diminuir {
+            background-color: #DB5656;
+        }
+        
+        .aumentar {
+            background-color: #56DB73;
+        }
+    }
+}

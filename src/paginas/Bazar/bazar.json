@@ -1,0 +1,47 @@
+[
+  {
+    "nome": "Blusa lã",
+    "descricao": "Blusa de lã preta, algodão",
+    "tamanho": "M",
+    "foto": "/assets/blusa.jpg",
+    "valor": 16.80,
+    "quantidadeMaxima": 2,
+    "id": "1"
+  },
+  {
+    "nome": "Boné basico",
+    "descricao": "Boné preto, em perfeito estado",
+    "tamanho": "Único",
+    "foto": "/assets/bone.jpg",
+    "valor": 12.50,
+    "quantidadeMaxima": 1,
+    "id": "2"
+  },
+  {
+    "nome": "Cachecol Mickey",
+    "descricao": "Cachecol Mickey - infantil",
+    "tamanho": "80CM",
+    "foto": "/assets/cachecol.jpg",
+    "valor": 8.60,
+    "quantidadeMaxima": 1,
+    "id": "3"
+  },
+  {
+    "nome": "Calça Jeans",
+    "descricao": "Calça jeans masculina, azul escura",
+    "tamanho": "38",
+    "foto": "/assets/calca.jpg",
+    "valor": 29.80,
+    "quantidadeMaxima": 3,
+    "id": "4"
+  },
+  {
+    "nome": "Camiseta Básica",
+    "descricao": "Camiseta branca, algodão",
+    "tamanho": "Único",
+    "foto": "/assets/camiseta.jpg",
+    "valor": 23.90,
+    "quantidadeMaxima": 2,
+    "id": "5"
+  }
+]

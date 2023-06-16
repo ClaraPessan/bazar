@@ -1,0 +1,26 @@
+.produto {
+    text-align: center;
+
+    img {
+        max-width: 200px;
+        margin: 15px;
+    }
+
+    &__informacoes {
+        text-align: start;
+        margin: 10px 0;
+    }
+
+    &__informacao {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+
+    }
+    
+}
+
+.descricao {
+    font-size: 0.80rem;
+    color: rgb(36, 36, 36);
+}
